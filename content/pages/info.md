@@ -20,7 +20,8 @@ sections:
       cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
     media:
       type: ImageBlock
-      url: /images/WhatsApp Image 2024-06-24 at 16.33.28_94c95e0b.jpg
+      url: >-
+        /images/WhatsApp_Image_2024-06-24_at_16.33.28_94c95e0b-removebg-preview.png
       altText: Hero image
     styles:
       self:
