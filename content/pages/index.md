@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'I’m amir reda a data scientist, machine learning'
+    title: 'I’m amir reda a data scientist, machine learning enginer'
     subtitle: ''
     styles:
       self:
