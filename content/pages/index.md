@@ -14,7 +14,14 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'I’m amir reda a data scientist, machine learning enginer'
-    subtitle: ''
+    subtitle: >-
+      Data Scientist skilled in transforming complex datasets into actionable
+      insights. Proficient in Python, SQL, and machine learning, with expertise
+      in statistical analysis, feature engineering, and data visualization. I
+      have experience optimizing systems and solving business challenges through
+      data. Holding a degree in Information Systems from Banha University and
+      advanced knowledge of AWS cloud computing, I’m passionate about driving
+      data-driven solutions.
     styles:
       self:
         height: auto
